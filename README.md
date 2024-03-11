@@ -8,8 +8,7 @@
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-tavares-48b12b262) 
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrintfFiveo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -21,4 +20,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrintfFiveo&icon=1&color=6)](https://visitcount.itsvg.in)
+
+### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-tavares-48b12b262) 
+  [![](https://visitcount.itsvg.in/api?id=PrintfFiveo&icon=1&color=6)](https://visitcount.itsvg.in)
