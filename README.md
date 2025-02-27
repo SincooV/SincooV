@@ -6,8 +6,8 @@
 I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
 
 <div align="center">
-    <a href="https://github.com/Pulado">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulado&layout=compact&langs_count=8&theme=radical" />
+    <a href="https://github.com/SincooV">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SincooV&layout=compact&langs_count=8&theme=radical" />
     </a>
 </div>
 
@@ -74,14 +74,14 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 ### 📊 GitHub Stats:
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulado&theme=radical&hide_border=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SincooV&theme=radical&hide_border=false" />
 </div>
 
 ㅤ
 
 <div align="center">
-    <a href="https://github.com/Pulado">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pulado&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+    <a href="https://github.com/SincooV">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SincooV&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
     </a>
 </div>
 
