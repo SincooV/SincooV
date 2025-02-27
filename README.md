@@ -23,5 +23,5 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 ---
 
 ### 🌐 Socials: 
-  [![LinkedIn]([(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)])](https://www.linkedin.com/in/vitor-leite-398481331) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-leite-398481331) 
   [![](https://visitcount.itsvg.in/api?id=SincooV&icon=1&color=6)](https://visitcount.itsvg.in)
