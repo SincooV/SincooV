@@ -87,6 +87,11 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
         <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
 </div>
 ㅤ
+---
+
+## 💡 Fun Fact
+
+I love Seals 🦭
 
 ---
 
