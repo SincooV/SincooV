@@ -2,7 +2,6 @@
 # Hello 👋, I'm Vitor Tavares.
 
 
-
 I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
 
 <div align="center">
@@ -62,15 +61,9 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-
-
 ---
 
-
-
-
 ## 🌐 Socials
-ㅤ
 
 <div align="center">
     <a href="https://www.linkedin.com/in/vitor-leite-398481331/" target="_blank">
@@ -104,24 +97,15 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SincooV&theme=radical&hide_border=false" />
 </div>
 
-ㅤ
-
 <div align="center">
     <a href="https://github.com/SincooV">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SincooV&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
     </a>
 </div>
 
-
-
 ---
 ## 📫 How to Reach Me
 
 - **Email**: [vitor.tavares.leite@gmail.com](mailto:vitor.tavares.leite@gmail.com)
 - **Discord**: sincoov
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SincooV&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
