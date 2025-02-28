@@ -92,9 +92,9 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 
 ---
 
-## 💡 Fun Fact
+### 💡 Fun Fact
 
-I love Seals 🦭
+<p>I love Seals 🦭</p> 
 
 ---
 
