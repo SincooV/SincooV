@@ -125,7 +125,11 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 
 
 ---
+## 📫 How to Reach Me
 
+- **Email**: [vitor.tavares.leite@gmail.com](mailto:vitor.tavares.leite@gmail.com)
+- **Discord**: sincoov
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SincooV&limit=5&theme=dark&combine_all_yearly_contributions=true)
