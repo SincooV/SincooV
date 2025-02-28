@@ -98,16 +98,6 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 
 ---
 
-## 🏆 GitHub Trophies
-ㅤ
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SincooV&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-ㅤ
-
----
-
 ### 📊 GitHub Stats:
 
 <div align="center">
