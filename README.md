@@ -62,6 +62,8 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+
+
 ---
 
 
@@ -87,6 +89,7 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
         <img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
 </div>
 ㅤ
+
 ---
 
 ## 💡 Fun Fact
