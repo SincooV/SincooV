@@ -66,7 +66,7 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
 ## 🌐 Socials
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/vitor-leite-398481331/" target="_blank">
+    <a href="https://www.linkedin.com/in/vitor-tavares-398481331/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="https://medium.com/@Sincoo" target="_blank">
