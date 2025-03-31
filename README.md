@@ -75,7 +75,7 @@ I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focu
     <a href="https://dev.to/sincoov" target="_blank">
         <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
     </a>
-    <a href="https://stackoverflow.com/users/29830289/vitor-tavares?tab=profile" target="_blank">
+    <a href="https://www.linkedin.com/in/vitor-tavares-398481331/" target="_blank">
         <img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
     </a>
     <a href="https://www.reddit.com/user/Sincoo5/" target="_blank">
