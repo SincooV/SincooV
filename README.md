@@ -2,7 +2,7 @@
 # Hello 👋, I'm Vitor Tavares.
 
 
-I'm a technical course student. I work with **C, Java, and PHP (Laravel)**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
+I'm a student currently pursuing a bachelor degree. I work with **C, Java, and PHP (Laravel)**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
 
 <div align="center">
     <a href="https://github.com/SincooV">
