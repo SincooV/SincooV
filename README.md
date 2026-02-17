@@ -2,7 +2,7 @@
 # Hello 👋, I'm Vitor Tavares.
 
 
-I'm a Full-stack developer at <a href=https://powerbizz.ai>Powerbizz.ai </a>  and student currently pursuing a bachelor degree. I work with **C, Java, PHP and JavaScript**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
+I'm a Full-stack developer at <a href=https://powerbizz.ai>Powerbizz.ai</a> and student currently pursuing a bachelor degree. I work with **C, Java, PHP and JavaScript**, focusing on **back-end** development. My goal is to pursue a career in development and later explore **penetration testing** and **cybersecurity**. I'm always eager to expand my skills.
 
 <div align="center">
     <a href="https://github.com/SincooV">
