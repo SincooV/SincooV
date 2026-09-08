@@ -279,10 +279,7 @@
             padding: '0 16px',
             borderBottom: last ? '1px solid rgba(0,0,0,0)' : '1px solid rgba(223,218,92,0.12)',
           }}>
-            <div style={{ display: 'flex', width: 28, flexShrink: 0, fontSize: 9, fontWeight: 700, letterSpacing: '1.8px', color: 'rgba(223,218,92,0.42)' }}>
-              {pad(g + 1)}
-            </div>
-            <div style={{ display: 'flex', width: 112, flexShrink: 0, fontSize: 9.5, fontWeight: 700, letterSpacing: '2.4px', color: 'rgba(196,190,130,0.75)' }}>
+            <div style={{ display: 'flex', width: 116, flexShrink: 0, fontSize: 9.5, fontWeight: 700, letterSpacing: '2.4px', color: 'rgba(196,190,130,0.75)' }}>
               {group.label}
             </div>
             <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', flexShrink: 0 }}>
@@ -302,10 +299,7 @@
                 );
               })}
             </div>
-            <div style={{ display: 'flex', flexGrow: 1, height: 1, margin: '0 16px', background: 'rgba(223,218,92,0.14)' }} />
-            <div style={{ display: 'flex', width: 24, flexShrink: 0, justifyContent: 'flex-end', fontSize: 9.5, fontWeight: 700, letterSpacing: '1.2px', color: 'rgba(223,218,92,0.7)' }}>
-              {pad(group.items.length)}
-            </div>
+            <div style={{ display: 'flex', flexGrow: 1, height: 1, marginLeft: 16, background: 'rgba(223,218,92,0.14)' }} />
           </div>
         );
       })}
