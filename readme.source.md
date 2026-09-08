@@ -113,7 +113,7 @@
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: 8 }}>
           <div id="led-ident" style={{ display: 'flex', width: 5, height: 5, borderRadius: 1, background: '#DFDA5C' }} />
           <div style={{ display: 'flex', fontSize: 9, fontWeight: 700, letterSpacing: '2.4px', color: 'rgba(223,218,92,0.62)' }}>
-            IDENT / 01
+            IDENT
           </div>
         </div>
         <div style={{ display: 'flex', fontSize: 9, fontWeight: 700, letterSpacing: '2.4px', color: 'rgba(196,190,130,0.42)' }}>
@@ -263,7 +263,7 @@
         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', gap: 8 }}>
           <div id="led-stack" style={{ display: 'flex', width: 5, height: 5, borderRadius: 1, background: '#DFDA5C' }} />
           <div style={{ display: 'flex', fontSize: 9, fontWeight: 700, letterSpacing: '2.4px', color: 'rgba(223,218,92,0.62)' }}>
-            STACK / 02
+            STACK
           </div>
         </div>
         <div style={{ display: 'flex', fontSize: 9, fontWeight: 700, letterSpacing: '2.4px', color: 'rgba(196,190,130,0.42)' }}>
